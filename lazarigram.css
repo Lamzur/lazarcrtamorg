@@ -1,0 +1,17 @@
+body{
+    font-family: Helvetica;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    text-justify:newspaper;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align-last: auto;
+    
+}

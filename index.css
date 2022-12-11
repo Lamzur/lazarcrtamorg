@@ -1,0 +1,29 @@
+#header{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    font-family:sans-serif;
+}
+
+.grid{
+    display: grid;
+    grid: auto auto auto/ auto  auto auto;
+    padding: 40px;
+    justify-content: center;
+    margin: 10px;
+    column-gap: 300px;
+    row-gap: 120px;
+}
+
+.gridr{
+    width: 230px;
+    height: 230px;
+}
+
+.down_text{
+    text-align: center;
+    color: black;
+
+}
